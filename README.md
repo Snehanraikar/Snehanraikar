@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **snehanraikar.49631@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10PsA3MjCtDSHLcamd2OUexnTDYCncnTE/view?usp=drivesdk](https://drive.google.com/file/d/10PsA3MjCtDSHLcamd2OUexnTDYCncnTE/view?usp=drivesdk)
+- 📄 Know about my experiences [Click Here!!](https://github.com/Snehanraikar/Portfolio)
 
 <h3 align="left">Connect with me:  via linkedin </h3>
 
