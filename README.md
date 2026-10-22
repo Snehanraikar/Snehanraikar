@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **snehanraikar.49631@gmail.com**
 
-- 📄 Know about my experiences [Click Here!!](https://github.com/Snehanraikar/Portfolio)
+- 📄 Know about my experiences [Click Here!!](https://snehanraikar.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:  via linkedin </h3>
 
