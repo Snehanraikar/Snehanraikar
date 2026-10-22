@@ -45,7 +45,7 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHprZXlvYW5xZThuOWZ6bjRnZmhrcmN2eWdydHA3YmRsZm9lbWZjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QQcfeuDSZyiY0vhAX3/giphy.gif" width="180" alt="Cat typing on a computer"/>
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180" alt="Animated cat companion"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNhdGFrNm9tbTcxYmhnenA0a2R2MnZtaDZxOHpkaXk4aWU3bDcwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/giphy.gif" width="180" alt="Animated cat companion"/>
 
 <br/>
 
