@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=80&lines=%22She+turns+curiosity+into+code.%22;%F0%9F%92%BB+Building+ideas%2C+one+line+at+a+time;%E2%9C%A8+Creative+mind.+Developer+mode.+ON.;%F0%9F%8C%8C+Debugging+my+way+through+the+universe." alt="Animated quote"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNrbW4xdXZndWVsM3F1N2d1YXIxcGY1ZTRuNHNmcnNjbmFodms4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UcQSokPVOjz1eBX9G2/giphy.gif" width="240" alt="Girl coding at a computer, animated programming scene"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF1eHV0ZXNxZ2IwZzJpYzhnOHpoaDg3MnB3MHA2b3FseDN5MnZuZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="240" alt="Girl coding at a computer, animated programming scene"/>
 
 ### 🌷 A DEVELOPER'S LITTLE UNIVERSE
 
@@ -20,7 +20,7 @@
 ## 💻 POV: A girl who loves to code
 
 <div align="center">
-<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dG5icDk2czVqcGFobDB2Zmh6aDBmdzA3ZTAzNWdoMXI5N3AwM2V2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tfB5zDBWBcZ6kXP7dY/giphy.gif" alt="Animated developer working at a computer"/>
+<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3JmdGx6ZTF4bjk2Z2w4MGxvOHVkcjRoNXhiYXlyejZxdjI1N245eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.gif" alt="Animated developer working at a computer"/>
 </div>
 
 - 👩‍💻 Learning, building, experimenting, and improving every day.
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Cat typing on a computer"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHprZXlvYW5xZThuOWZ6bjRnZmhrcmN2eWdydHA3YmRsZm9lbWZjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QQcfeuDSZyiY0vhAX3/giphy.gif" width="180" alt="Cat typing on a computer"/>
 <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180" alt="Animated cat companion"/>
 
 <br/>
