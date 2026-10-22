@@ -1,154 +1,105 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12001F,35:512B81,70:D946EF,100:72E7FF&height=170&section=header&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10152F,45:5946A8,75:C084FC,100:79E7FF&height=160&section=header&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=F5A9FF&center=true&vCenter=true&width=800&height=80&lines=%22She+believed+she+could%2C+so+she+coded.%22;%F0%9F%92%BB+Powered+by+coffee+and+curiosity;%F0%9F%8C%B8+Debugging+life%2C+one+line+at+a+time;%E2%9C%A8+Cute+IDE.+Serious+ideas.+Infinite+possibilities." alt="Animated coding quote" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=80&lines=%22She+turns+curiosity+into+code.%22;%F0%9F%92%BB+Building+ideas%2C+one+line+at+a+time;%E2%9C%A8+Creative+mind.+Developer+mode.+ON.;%F0%9F%8C%8C+Debugging+my+way+through+the+universe." alt="Animated quote"/>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="240" alt="Girl programmer coding animation" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="240" alt="Girl coding at a computer, animated programming scene"/>
 
-### 🎀 HER WORLD, HER CODE, HER RULES
+### 🌷 A DEVELOPER'S LITTLE UNIVERSE
 
-*Somewhere between a semicolon and a little bit of magic.*
+*Code, creativity, curiosity, and a little cosmic sparkle.*
 
-<img src="https://img.shields.io/badge/MOOD-COMPILING%20DREAMS-ff69b4?style=for-the-badge&labelColor=21112f" />
-<img src="https://img.shields.io/badge/COFFEE-LOADING-9b72cf?style=for-the-badge&labelColor=21112f" />
-<img src="https://komarev.com/ghpvc/?username=snehanraikar&style=for-the-badge&color=ff69b4&label=CURIOUS%20VISITORS" />
-
-<a href="https://snehanraikar.github.io/Portfolio/"><img src="https://img.shields.io/badge/💜%20ENTER%20MY%20WORLD-9B5DE5?style=for-the-badge" /></a>
-<a href="mailto:snehanraikar.49631@gmail.com"><img src="https://img.shields.io/badge/💌%20SEND%20ME%20A%20SIGNAL-FF69B4?style=for-the-badge" /></a>
+<a href="https://snehanraikar.github.io/Portfolio/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-8B7CF6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:snehanraikar.49631@gmail.com"><img src="https://img.shields.io/badge/LET'S%20CONNECT-79DFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Contact"/></a>
 
 </div>
 
 ---
 
-## 💻 POV: You're a girl who codes
+## 💻 POV: A girl who loves to code
 
 <div align="center">
-
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer at work" />
-
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer working at a computer"/>
 </div>
 
-- 🎀 Cute desk, chaotic tabs, 47 ideas open at once.
-- ☕ Coffee in one hand, debugging in the other.
-- 🧠 Turning random midnight thoughts into actual projects.
+- 👩‍💻 Learning, building, experimenting, and improving every day.
 - 🤖 Exploring **AI Forward Deployment**.
-- 🌐 Learning **Full Stack Web Development**.
-- 🐛 Finding one bug and accidentally discovering three more.
-- ✨ Making technology a little more creative, one commit at a time.
+- 🌐 Developing skills in **Full Stack Web Technologies**.
+- 🧩 Turning tricky bugs into satisfying breakthroughs.
+- ☕ Powered by curiosity, coffee, and the occasional Stack Overflow visit.
+- 🚀 Dreaming big, building steadily, and celebrating every little win.
 
 <br clear="both"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=FF9DE6&center=true&vCenter=true&width=650&lines=%24+git+commit+-m+%22she+did+it%22;%3E+Compiling+confidence...;%3E+Warning%3A+too+many+tabs+open;%3E+Error+404%3A+perfect+code+not+found;%3E+But+we+ship+anyway+%F0%9F%92%85" alt="Funny animated terminal messages" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=700&color=79DFFF&center=true&vCenter=true&width=650&lines=%24+git+commit+-m+%22another+small+win%22;%3E+Compiling+ideas...;%3E+Debugging+in+progress...;%3E+Coffee+%2B+Code+%3D+Progress;%3E+Build.+Learn.+Repeat.+%E2%9C%A8" alt="Animated coding terminal"/>
 
 </div>
 
 ---
 
-## 🪄 My Little Coding Spellbook
+## 🐱 The coding desk companions
 
 <div align="center">
 
-### 💖 The languages I speak
-
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,php&theme=dark" alt="Programming languages" />
-
-### 🦋 The tools in my creative universe
-
-<img src="https://skillicons.dev/icons?i=angular,nodejs,firebase,git&theme=dark" alt="Development tools" />
-
-### ☁️ Cloud dreams and database things
-
-<img src="https://skillicons.dev/icons?i=azure,gcp,mysql,sqlite&theme=dark" alt="Cloud and database technologies" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Cat typing on a computer"/>
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180" alt="Animated cat companion"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-
-*One girl. Many technologies. A suspicious number of open browser tabs.*
+*One developer. Several tabs. One very important cat supervisor.*
 
 </div>
 
 ---
 
-## 🪐 The 3 AM Debugging Dimension
+## 🪄 My technology constellation
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180" alt="Cute coding animation" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,php&theme=dark" alt="Programming languages"/>
 
-| Developer situation | Current status |
-|---|---|
-| Code works on the first try | ✨ Legendary event |
-| One missing semicolon | 💀 Plot twist |
-| Stack Overflow saves the day | 🦸 Hero moment |
-| Finally fixing the bug | 👑 Main character energy |
-| New project idea at midnight | 🚀 Sleep has left the chat |
+<img src="https://skillicons.dev/icons?i=angular,nodejs,firebase,git&theme=dark" alt="Development tools"/>
 
-</div>
-
----
-
-## 🌷 My GitHub, but make it cosmic
-
-<div align="center">
-
-<a href="https://github.com/snehanraikar"><img height="175" src="https://github-readme-stats.vercel.app/api?username=snehanraikar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=160A25&title_color=FF9DE6&icon_color=C4A1FF&text_color=F8EFFF&rank_icon=github" alt="GitHub stats" /></a>
-<a href="https://github.com/snehanraikar"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehanraikar&layout=compact&theme=tokyonight&hide_border=true&bg_color=160A25&title_color=FF9DE6&text_color=F8EFFF" alt="Top languages" /></a>
-
-<br/><br/>
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehanraikar&theme=tokyonight&hide_border=true&background=160A25&ring=FF9DE6&fire=C4A1FF&currStreakLabel=FF9DE6" alt="GitHub streak" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=snehanraikar&bg_color=160A25&color=FFB8F0&line=C4A1FF&point=FFFFFF&area=true&hide_border=true&custom_title=Little%20Commits%2C%20Big%20Dreams" alt="GitHub contribution graph" />
-
-</div>
-
----
-
-## 🧸 Tiny things that make coding fun
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="140" alt="Cute animated cat" />
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140" alt="Cat using a computer" />
+<img src="https://skillicons.dev/icons?i=azure,gcp,mysql,sqlite&theme=dark" alt="Cloud and database technologies"/>
 
 <br/>
 
-**Current developer personality:**
-
-🎧 Lo-fi beats  
-💗 Pink and purple everything  
-🌙 Late-night ideas  
-🧋 Iced coffee energy  
-🐈 Cat supervisor  
-💻 One more line of code before bed
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
 </div>
 
 ---
 
-## 💌 Let's make something awesome
+## 🌌 My GitHub universe
 
 <div align="center">
 
-<a href="https://github.com/snehanraikar?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-9B5DE5?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://snehanraikar.github.io/Portfolio/"><img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:snehanraikar.49631@gmail.com"><img src="https://img.shields.io/badge/SAY%20HELLO-72E7FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=snehanraikar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=10152F&title_color=C4B5FD&icon_color=79DFFF&text_color=F3F4FF&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehanraikar&layout=compact&theme=tokyonight&hide_border=true&bg_color=10152F&title_color=C4B5FD&text_color=F3F4FF" alt="Most used languages"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=900&color=FF9DE6&center=true&vCenter=true&width=650&lines=Dream+in+pixels+%F0%9F%92%97;Think+in+algorithms+%F0%9F%A7%A0;Build+with+heart+%E2%9C%A8;Repeat+forever+%F0%9F%9A%80" alt="Animated closing quote" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehanraikar&theme=tokyonight&hide_border=true&background=10152F&ring=C4B5FD&fire=79DFFF&currStreakLabel=C4B5FD" alt="GitHub streak"/>
 
-### 💗 Thanks for visiting my little corner of the internet!
+<br/><br/>
 
-*Stay soft. Think boldly. Keep coding.*
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=snehanraikar&bg_color=10152F&color=C4B5FD&line=79DFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Little%20Commits%2C%20Big%20Dreams" alt="GitHub activity"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:72E7FF,40:D946EF,75:512B81,100:12001F&height=140&section=footer&animation=fadeIn" alt="Animated pink and purple footer" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=Curious+mind.+Creative+solutions.;Learning+something+new+every+day.;The+next+project+is+loading...+%F0%9F%9A%80" alt="Animated closing message"/>
+
+*Keep learning. Keep creating. Keep making things that matter.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:79E7FF,45:C084FC,100:10152F&height=130&section=footer&animation=fadeIn" alt="Animated footer"/>
 
 </div>
