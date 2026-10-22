@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehanraikar&label=Profile%20views&color=0e75b6&style=flat" alt="snehanraikar" /> </p>
 
-- 🌱 I’m currently learning **data science and full stack web technologies.**
+- 🌱 I’m currently learning **AI forward deployment and full stack web technologies.**
 
 - 📫 How to reach me **snehanraikar.49631@gmail.com**
 
