@@ -20,7 +20,7 @@
 ## 💻 POV: A girl who loves to code
 
 <div align="center">
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer working at a computer"/>
+<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dG5icDk2czVqcGFobDB2Zmh6aDBmdzA3ZTAzNWdoMXI5N3AwM2V2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tfB5zDBWBcZ6kXP7dY/giphy.gif" alt="Animated developer working at a computer"/>
 </div>
 
 - 👩‍💻 Learning, building, experimenting, and improving every day.
